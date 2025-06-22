@@ -1,0 +1,1 @@
+* * * * * root /usr/local/bin/python3 /usr/src/app/barka_bot.py >> /var/log/discord-bot.log 2>&1

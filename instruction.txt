@@ -1,0 +1,6 @@
+instruction steps:
+1)
+docker build -t discord-bot-python .
+
+
+2) docker run discord-bot-python
