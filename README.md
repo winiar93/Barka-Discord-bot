@@ -1,5 +1,5 @@
 # Barka-Discord-bot
-Discord bot that plays barka song at 21:37 everyday
+A Discord bot that plays the song 'Barka' every day at 21:37.
 
 
 ### Instruction
